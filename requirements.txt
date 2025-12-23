@@ -1,4 +1,3 @@
-flet
+streamlit
 requests
 gtts
-fpdf
